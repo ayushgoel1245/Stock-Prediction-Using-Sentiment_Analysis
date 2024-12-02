@@ -5,7 +5,7 @@ from textblob import TextBlob
 stock_data = pd.read_csv('/content/TSLA.csv')  # Update with your dataset path
 
 # Load sentiment data (example: Tweets or news headlines)
-sentiment_data =pd.read_csv('/content/tesla_final.csv')
+sentiment_data =pd.read_csv('/content/tesla_final.csv') # Update with your dataset path
 
 # Perform sentiment analysis
 def get_sentiment_score(text):
