@@ -40,5 +40,5 @@ This project predicts stock prices using machine learning algorithms, specifical
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/ayushgoel1245/stock-price-prediction.git
-   cd stock-price-prediction
+   git clone https://github.com/ayushgoel1245/Stock-Prediction-Using-Sentiment_Analysis.git
+   cd Stock-Prediction-Using-Sentiment_Analysis
